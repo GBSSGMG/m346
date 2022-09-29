@@ -1,6 +1,5 @@
 # 1te Miglieder
-Giosuè war hier
+Giosuè war hier und wird hier bleiben
 
 # 2te Miglieder
-
 Samuel war hier
